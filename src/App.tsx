@@ -4,18 +4,13 @@ function App() {
   const coworkingSpaces = [
     {
       name: 'ワンサードライフ 秋葉原',
-      image: '/public/pwa-192x192.png',
+      image: '/pwa-192x192.png', // パスを修正
       link: 'https://www.1-3rdlife.com/?gad_source=1&gclid=CjwKCAjw_ZC2BhAQEiwAXSgCliIb2VjG_DFhNDvapaGTuMuT5ywNFWCr1hGhcPIZ0ykwaeWXqDe7sxoCNHQQAvD_BwE'
     },
     {
       name: '渋谷は HAKADORU',
-      image: '/public/pwa-192x192.png',
+      image: '/pwa-192x192.png', // パスを修正
       link: 'https://haka-doru.jp/newopen/shibuya_miyamasuzaka/'
-    },
-    {
-      name: '新宿は HAKADORU',
-      image: '/public/pwa-192x192.png',
-      link: 'https://haka-doru.jp/newopen/shinjuku/'
     }
   ];
   
